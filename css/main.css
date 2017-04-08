@@ -33,10 +33,18 @@
     color: green;
     text-align: center;
 }
+
+.third{
+    
+}
+
 .obrazek img{
     width:50%;
 }
 
 .text{
-	color: greenyellow;
+	color: green;
+}
+h1 {
+    color:blue;
 }
