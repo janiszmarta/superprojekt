@@ -30,16 +30,28 @@
 }
 
 .second{
+    color: green;
+    text-align: center;
+}
+
+.third{
     
 }
+
 .obrazek img{
     width:50%;
 }
 
 .text{
-	color: pink;
+	color: green;
 }
 
 .stopeczka{
 	color: green;
+}
+h1 {
+    color:blue;
+}
+p{
+    background-color: yellow;
 }
