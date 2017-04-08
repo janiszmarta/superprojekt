@@ -26,6 +26,7 @@
 .first{
     background-color: orange;
     word-wrap:break-word;
+    font-size: 20px;
 }
 .obrazek img{
     width:50%;
