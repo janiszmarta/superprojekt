@@ -25,6 +25,7 @@
 } 
 .first{
     background-color: orange;
+    word-wrap:break-word;
 }
 .obrazek img{
     width:50%;
